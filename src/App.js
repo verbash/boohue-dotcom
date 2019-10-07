@@ -8,8 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="" alt="logo" />
         <p>
-          BooHue - an app for IOS and Android coming Sept 2019.
+          BooHue - an app for IOS and Android.
         </p>
+        <a href="https://apps.apple.com/us/app/boohue/id1481113369?ls=1">BooHue available now in Apple App Store</a>
         <a
           className="App-link"
           href="https://www.palacelogic.com/"
